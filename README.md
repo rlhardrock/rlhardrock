@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rlhardrock  and call me  Louisk Rex
+- 👋 Hi, I’m @rlhardrock  and you can call me  Louisk Rex!
 - 👀 I’m interested in Data World !  Engineer, Science, Analytics, Management !  
 - 🌱 I’m currently learning PHP (Laravel), JS (React), Python ....  SQL and others!
 - 💞️ I’m looking to collaborate on Owls Football ! this is not a software 
