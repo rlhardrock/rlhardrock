@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rlhardrock  and you can call me  Louisk Rex!
+- 👋 Hi, I’m @rlhardrock and you can call me "Louisk Rex"!
 - 👀 I’m interested in Data World !  Engineer, Science, Analytics, Management !  
-- 🌱 I’m currently learning 1) Java (Spring Boot), 2) PHP (Laravel), 3) JS (Angular)
+- 🌱 I’m currently learning 1) Java (Spring Boot), 2) Python (Data), 3) JS (Angular)
+- 🌱 other areas is QA Testing with Cucumber, Gherkin, Serenity, PlayWright, Cypress with POM or ScreenPlay
 - 👀 Power BI and Excel !!!
 - 💞️ I’m looking to collaborate on Owls Football ! this is not a software 
 - 🌱 SQL is the best of the world !
