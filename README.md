@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rlhardrock@gmail.com**
 
-- 📄 The System Operative of my heart [Ubuntu and derivatives (Zorin, Mint ...)](Ubuntu and derivatives (Zorin, Mint ...))
+- 📄 The System Operative of my heart (Ubuntu and derivatives (Zorin, Mint ...))
 
 - ⚡ My Hobbies! **American Football, Voleyball, TV Series,**
 
